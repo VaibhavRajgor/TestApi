@@ -1,0 +1,25 @@
+{
+  "student": [ 
+	
+     { 
+        "id":"01", 
+        "name": "Tom", 
+        "lastname": "Price" 
+     }, 	
+     { 
+        "id":"02", 
+        "name": "Nick", 
+        "lastname": "Thameson" 
+     }, 	
+     { 
+        "id":"03", 
+        "name": "vaibhav", 
+        "lastname": "Rajgor" 
+     }, 	
+     { 
+        "id":"04", 
+        "name": "Aman", 
+        "lastname": "Verma" 
+     } 
+  ]   
+}
