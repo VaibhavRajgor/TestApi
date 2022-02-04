@@ -1,8 +1,8 @@
 {
   "Questions": [
     {
-      "questionType": "mcq",
-      "question": "how bad are mumbai roads?",
+      "questionType": "mcq,",
+      "question": "how bad are mumbai roads?,",
       "options": [
         "good",
         "bad",
@@ -10,8 +10,8 @@
       ]
     },
     {
-      "questionType": "mrq",
-      "question": "how would you describe yourself?",
+      "questionType": "mrq,",
+      "question": "how would you describe yourself?,",
       "options": [
         "passionate",
         "go-getter",
@@ -19,9 +19,8 @@
       ]
     },
     {
-      "questionType": "sub",
-      "question": "tell us about your onboarding experience?",
-      "options":[]
+      "questionType": "sub,",
+      "question": "tell us about your onboarding experience?"
     }
   ]
 }
