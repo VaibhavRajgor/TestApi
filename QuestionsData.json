@@ -22,6 +22,15 @@
       "questionType": "sub",
       "question": "tell us about your onboarding experience?",
       "options":[]
+    },
+    {
+      "questionType": "mcq",
+      "question": "Capital of INDIA",
+      "options": [
+        "Delhi",
+        "Mumbai",
+        "pune"
+      ]
     }
   ]
 }
