@@ -1,0 +1,21 @@
+{
+  "todo": [ 
+	
+     { 
+        "task":"to walk", 
+        "status": "done"
+     }, 	
+     { 
+        "task":"to eat", 
+        "status": "not done"
+     }, 	
+     { 
+        "task":"to sleep", 
+        "status": "done"
+     }, 	
+     { 
+        "task":"to gym", 
+        "status": "not done"
+     } 
+  ]   
+}
