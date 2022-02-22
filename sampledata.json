@@ -15,7 +15,7 @@
      }, 	
      { 
         "id":"03", 
-        "name": "vaibhav", 
+        "name": "Vaibhav", 
         "lastname": "Rajgor",
 	 "date":"2021-12-31" 
      }, 	
@@ -23,19 +23,8 @@
         "id":"04", 
         "name": "Aman", 
         "lastname": "Verma",
-	     "date":"2020-01-28" 
-     }, 	
-     { 
-        "id":"05", 
-        "name": "Tom", 
-        "lastname": "Cruise",
-	"date":"2021-06-28" 
-     }, 	
-     { 
-        "id":"06", 
-        "name": "Tom", 
-        "lastname": "Holand",
-	"date":"2022-01-28" 
-     }   
+	"date":"2020-01-28" 
+     } 	
+      
   ]   
 }
