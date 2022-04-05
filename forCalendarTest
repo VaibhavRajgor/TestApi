@@ -1,0 +1,50 @@
+[
+    {
+        "id": "1",
+        "title": "my schedule",
+        "category": "allday",
+        "body":"my schedule body",
+        "start": "2022-03-21T22:30:00+09:00",
+        "end": "2022-03-22T02:30:00+09:00"
+    },
+    {
+        "id": "2",
+        "title": "second schedule",
+        "category": "allday",
+        "body":"this is second schedule body",
+        "start": "2022-03-23T17:30:00+09:00",
+        "end": "2022-03-23T17:31:00+09:00"
+    },
+    {
+        "id": "3",
+        "title": "Task 3",
+        "category": "milestone",
+        "body":"Task 3 description",
+        "start": "2022-03-25T17:30:00+09:00",
+        "end": "2022-03-25T17:31:00+09:00"
+    },
+    {
+        "id": "4",
+        "title": "Task 4",
+        "category": "time",
+        "body":"Task 4 description",
+        "start": "2022-03-23 06:30:00",
+        "end": "2022-03-23 03:31:00"
+    },
+    {
+        "id": "5",
+        "title": "Task 5",
+        "category": "time",
+        "body":"Task 5 description",
+        "start": "2022-03-23 02:30:00 pm",
+        "end": "2022-03-23 07:00:00 pm"
+    },
+    {
+        "id": "6",
+        "title": "Task 6",
+        "category": "task",
+        "body":"this is second schedule body",
+        "start": "2022-03-23T17:30:00+09:00",
+        "end": "2022-03-23T17:31:00+09:00"
+    }
+]
